@@ -1,0 +1,86 @@
+{
+  "structured": [
+    {
+      "pid": "4bc3097f-bdad-4bad-983a-2cdeaae9aeb4",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 1: Clinical Study Report: Pembrolizumab in Advanced NSCLC",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849346+00:00"
+    },
+    {
+      "pid": "5842b96f-24a3-4bef-9146-4369a0fa6b68",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 2: Abstract:\nThis Phase III randomized controlled trial evaluated the efficacy and safety of pembrolizumab versus standard chemotherapy in patients with advanced non-small cell lung cancer (NSCLC) with PD-L1 expression \u22651%.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849367+00:00"
+    },
+    {
+      "pid": "57af6539-d40a-45e8-8030-e99475083fd4",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 3: Background:\nNon-small cell lung cancer represents approximately 85% of all lung cancers. PD-L1 expression has emerged as a predictive biomarker for anti-PD-1 therapy response. Pembrolizumab, a humanized monoclonal antibody targeting PD-1, has shown promising results in multiple tumor types.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849376+00:00"
+    },
+    {
+      "pid": "4a27e9ef-1958-4c32-92cf-20302f340582",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 4: Methods:\nA total of 305 treatment-na\u00efve patients with metastatic NSCLC and PD-L1 tumor proportion score \u22651% were randomized 1:1 to receive either pembrolizumab 200 mg every 3 weeks (n=154) or investigator's choice chemotherapy (n=151). The primary endpoint was progression-free survival (PFS). Secondary endpoints included overall survival (OS), objective response rate (ORR), and safety.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849384+00:00"
+    },
+    {
+      "pid": "410b1c2b-a174-45ea-aa42-9537f2c36dd7",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 5: Results:\nThe median PFS was significantly longer with pembrolizumab versus chemotherapy (10.3 vs 6.0 months; HR=0.50, 95% CI: 0.37-0.68, p<0.001). Median overall survival was 30.0 months with pembrolizumab versus 14.2 months with chemotherapy (HR=0.63, 95% CI: 0.47-0.86, p=0.003). The objective response rate was 44.8% with pembrolizumab versus 27.8% with chemotherapy (p=0.007). Complete response was achieved in 7.8% of pembrolizumab patients versus 1.3% of chemotherapy patients.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849390+00:00"
+    },
+    {
+      "pid": "1ce83819-4be1-4c12-baf5-09ee2d07aa2c",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 6: Safety:\nGrade 3-5 treatment-related adverse events occurred in 26.6% of pembrolizumab patients versus 53.3% of chemotherapy patients (p<0.001). The most common immune-related adverse events with pembrolizumab included hypothyroidism (8.4%), pneumonitis (3.9%), and hepatitis (1.9%). No treatment-related deaths occurred in the pembrolizumab arm.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849398+00:00"
+    },
+    {
+      "pid": "ecc56410-7331-4c6e-9e7a-f6e401cd14a9",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 7: Conclusion:\nPembrolizumab demonstrated superior efficacy compared to standard chemotherapy in patients with advanced NSCLC and PD-L1 expression \u22651%, with a more favorable safety profile. These results support pembrolizumab as first-line treatment for this patient population.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849405+00:00"
+    },
+    {
+      "pid": "7195db09-55e9-4de7-a1ff-4bf4232ab413",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 8: Regulatory Status:\nThe FDA approved pembrolizumab for first-line treatment of metastatic NSCLC with high PD-L1 expression (\u226550%) in October 2016, with subsequent approval for PD-L1 \u22651% in May 2017 based on these study results.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849410+00:00"
+    },
+    {
+      "pid": "d0f4ed42-935e-4eb7-8f8a-211dc2fb660d",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Paragraph 9: Clinical Implications:\nThis study establishes pembrolizumab as a new standard of care for patients with advanced NSCLC and PD-L1 expression. MSLs should be prepared to discuss biomarker testing requirements, patient selection criteria, and immune-related adverse event management with oncologists.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849416+00:00"
+    }
+  ],
+  "unstructured": [
+    {
+      "pid": "c6518bf2-02cd-4dc4-8af6-2219f8b07dbe",
+      "file_id": "56dbd5bf52a84265a7ebc929e5d898aa",
+      "text": "Clinical Study Report: Pembrolizumab in Advanced NSCLC Abstract:\nThis Phase III randomized controlled trial evaluated the efficacy and safety of pembrolizumab versus standard chemotherapy in patients with advanced non-small cell lung cancer (NSCLC) with PD-L1 expression \u22651%. Background:\nNon-small cell lung cancer represents approximately 85% of all lung cancers. PD-L1 expression has emerged as a predictive biomarker for anti-PD-1 therapy response. Pembrolizumab, a humanized monoclonal antibody targeting PD-1, has shown promising results in multiple tumor types. Methods:\nA total of 305 treatment-na\u00efve patients with metastatic NSCLC and PD-L1 tumor proportion score \u22651% were randomized 1:1 to receive either pembrolizumab 200 mg every 3 weeks (n=154) or investigator's choice chemotherapy (n=151). The primary endpoint was progression-free survival (PFS). Secondary endpoints included overall survival (OS), objective response rate (ORR), and safety. Results:\nThe median PFS was significantly longer with pembrolizumab versus chemotherapy (10.3 vs 6.0 months; HR=0.50, 95% CI: 0.37-0.68, p<0.001). Median overall survival was 30.0 months with pembrolizumab versus 14.2 months with chemotherapy (HR=0.63, 95% CI: 0.47-0.86, p=0.003). The objective response rate was 44.8% with pembrolizumab versus 27.8% with chemotherapy (p=0.007). Complete response was achieved in 7.8% of pembrolizumab patients versus 1.3% of chemotherapy patients. Safety:\nGrade 3-5 treatment-related adverse events occurred in 26.6% of pembrolizumab patients versus 53.3% of chemotherapy patients (p<0.001). The most common immune-related adverse events with pembrolizumab included hypothyroidism (8.4%), pneumonitis (3.9%), and hepatitis (1.9%). No treatment-related deaths occurred in the pembrolizumab arm. Conclusion:\nPembrolizumab demonstrated superior efficacy compared to standard chemotherapy in patients with advanced NSCLC and PD-L1 expression \u22651%, with a more favorable safety profile. These results support pembrolizumab as first-line treatment for this patient population. Regulatory Status:\nThe FDA approved pembrolizumab for first-line treatment of metastatic NSCLC with high PD-L1 expression (\u226550%) in October 2016, with subsequent approval for PD-L1 \u22651% in May 2017 based on these study results. Clinical Implications:\nThis study establishes pembrolizumab as a new standard of care for patients with advanced NSCLC and PD-L1 expression. MSLs should be prepared to discuss biomarker testing requirements, patient selection criteria, and immune-related adverse event management with oncologists.",
+      "source": "internal_data",
+      "source_type": "txt",
+      "timestamp": "2025-08-08T07:01:43.849425+00:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "pid": "0a858e55-098e-4274-bbc9-00602d92b53e",
+    "file_id": "d2afebb945ed46c89b75fd3e9f9eaf82",
+    "text": "Slide 1: Sample Presentation Lorem ipsum dolor sit amet",
+    "source": "internal_data",
+    "source_type": "ppt",
+    "timestamp": "2025-08-07T17:58:29.338664+00:00"
+  },
+  {
+    "pid": "49e761d2-79b5-4416-b1c3-6e4bea97ac16",
+    "file_id": "d2afebb945ed46c89b75fd3e9f9eaf82",
+    "text": "Slide 2: Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec sapien imperdiet, finibus ipsum ut, dignissim lacus. Donec imperdiet magna eget magna ornare consequat. Suspendisse bibendum felis sit amet malesuada pellentesque. Vestibulum feugiat molestie lorem, eu placerat lectus tempor quis. Maecenas nulla quam, venenatis nec augue sit amet, accumsan convallis augue. Suspendisse potenti. Duis gravida mollis lobortis.",
+    "source": "internal_data",
+    "source_type": "ppt",
+    "timestamp": "2025-08-07T17:58:29.338676+00:00"
+  },
+  {
+    "pid": "5efed2bc-8ec6-4620-a799-8f9c84c3c542",
+    "file_id": "d2afebb945ed46c89b75fd3e9f9eaf82",
+    "text": "Slide 3: Aliquam quis elit ligula.",
+    "source": "internal_data",
+    "source_type": "ppt",
+    "timestamp": "2025-08-07T17:58:29.338681+00:00"
+  },
+  {
+    "pid": "bc6a6c21-5557-474d-91d6-9885f441a64c",
+    "file_id": "d2afebb945ed46c89b75fd3e9f9eaf82",
+    "text": "Slide 1: Sample Presentation Lorem ipsum dolor sit amet Slide 2: Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec sapien imperdiet, finibus ipsum ut, dignissim lacus. Donec imperdiet magna eget magna ornare consequat. Suspendisse bibendum felis sit amet malesuada pellentesque. Vestibulum feugiat molestie lorem, eu placerat lectus tempor quis. Maecenas nulla quam, venenatis nec augue sit amet, accumsan convallis augue. Suspendisse potenti. Duis gravida mollis lobortis. Slide 3: Aliquam quis elit ligula.",
+    "source": "internal_data",
+    "source_type": "ppt",
+    "timestamp": "2025-08-07T17:58:29.338688+00:00"
+  }
+]

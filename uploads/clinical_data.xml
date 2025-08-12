@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_data>
+    <patient id="P001" age="45">
+        <name>John Doe</name>
+        <diagnosis primary="true">
+            <condition code="I20.9">Angina pectoris</condition>
+            <severity>Moderate</severity>
+            <date>2025-08-01</date>
+        </diagnosis>
+        <medications>
+            <medication>
+                <name>Atorvastatin</name>
+                <dosage>20mg</dosage>
+                <frequency>Once daily</frequency>
+            </medication>
+            <medication>
+                <name>Metoprolol</name>
+                <dosage>50mg</dosage>
+                <frequency>Twice daily</frequency>
+            </medication>
+        </medications>
+        <lab_results date="2025-08-05">
+            <test name="Cholesterol">
+                <value>180</value>
+                <unit>mg/dL</unit>
+                <reference_range>Less than 200</reference_range>
+            </test>
+            <test name="Blood Pressure">
+                <systolic>130</systolic>
+                <diastolic>80</diastolic>
+                <unit>mmHg</unit>
+            </test>
+        </lab_results>
+    </patient>
+</clinical_data>

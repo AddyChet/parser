@@ -1,0 +1,198 @@
+{
+  "structured": [
+    {
+      "pid": "d5e850ee-93f7-4605-9301-abf29a06835b",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Title: Clinics in chest medicine",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019500+00:00"
+    },
+    {
+      "pid": "35a230e9-c830-4a0a-b5a7-55b73bdfe766",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "ISOAbbreviation: Clin Chest Med",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019516+00:00"
+    },
+    {
+      "pid": "fa1c40c9-c3f7-49a0-9e47-9600c76ffb99",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "ArticleTitle: Lung Cancer 2020: Epidemiology, Etiology, and Prevention.",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019524+00:00"
+    },
+    {
+      "pid": "8cd147f2-9c66-4740-8b52-d4fc2449fe0a",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "ELocationID: 10.1016/j.ccm.2019.10.001",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019530+00:00"
+    },
+    {
+      "pid": "b29f9f99-95fd-493e-9a70-595894ad55e1",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "ELocationID: S0272-5231(19)30080-2",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019535+00:00"
+    },
+    {
+      "pid": "c0e9b3a1-f8b2-455e-9c04-9f5b554b1108",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "AbstractText: Despite advances in our understanding of risk, development, immunologic control, and treatment options for lung cancer, it remains the leading cause of cancer death. Tobacco smoking remains the predominant risk factor for lung cancer development. Nontobacco risk factors include environmental and occupational exposures, chronic lung disease, lung infections, and lifestyle factors. Because tobacco remains the leading risk factor for lung cancer, disease prevention is focused on smoking avoidance and cessation. Other prevention measures include healthy diet choices and maintaining a physically active lifestyle. Future work should focus on smoking cessation campaigns and better understanding disease development and treatment strategies in nonsmokers.",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019540+00:00"
+    },
+    {
+      "pid": "288e57ac-1fef-484b-bf50-42e93987f5ab",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "CopyrightInformation: Copyright \u00a9 2019 Elsevier Inc. All rights reserved.",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019546+00:00"
+    },
+    {
+      "pid": "43594fe6-6cb8-4de7-a47b-b6fd357446cb",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Affiliation: Department of Medicine, Section of Pulmonary, Critical Care, and Sleep Medicine, Yale University School of Medicine, PO Box 208057, 300 Cedar Street TAC-441 South, New Haven, CT 06520-8057, USA.",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019551+00:00"
+    },
+    {
+      "pid": "61e4bf33-0add-49c1-aef7-ae84bea4c93d",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Affiliation: Department of Medicine, Section of Pulmonary, Critical Care, and Sleep Medicine, Yale University School of Medicine, PO Box 208057, 300 Cedar Street TAC-441 South, New Haven, CT 06520-8057, USA. Electronic address: charles.delacruz@yale.edu.",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019556+00:00"
+    },
+    {
+      "pid": "3c3a0703-6ca6-4dd6-a7c7-f2e81dab2944",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "PublicationType: Historical Article",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019561+00:00"
+    },
+    {
+      "pid": "f29f1d4c-f483-4691-bf7a-a9a380d270c3",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "PublicationType: Journal Article",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019566+00:00"
+    },
+    {
+      "pid": "f59452e8-b6c1-4ea0-88f4-8a0a1058552f",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Country: United States",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019571+00:00"
+    },
+    {
+      "pid": "c1db0191-0bab-46dd-8df9-7c589105cc40",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "MedlineTA: Clin Chest Med",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019576+00:00"
+    },
+    {
+      "pid": "e520c730-edc6-4ddd-8435-12ef17b2d280",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "DescriptorName: History, 21st Century",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019581+00:00"
+    },
+    {
+      "pid": "af343845-7263-4d4e-bf68-703e53945c77",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "DescriptorName: Lung Neoplasms",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019586+00:00"
+    },
+    {
+      "pid": "26852ea3-07bb-4227-9de6-4f98aa464972",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "QualifierName: epidemiology",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019591+00:00"
+    },
+    {
+      "pid": "9f959ced-fa4f-4af9-966c-aeaf8741498b",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "QualifierName: prevention & control",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019596+00:00"
+    },
+    {
+      "pid": "9f292395-a90c-4571-b819-745cc1b773c2",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Keyword: Epidemiology",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019601+00:00"
+    },
+    {
+      "pid": "cc0a7c63-7784-46ce-948c-2b5fb59d27cf",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Keyword: Lung cancer",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019606+00:00"
+    },
+    {
+      "pid": "7ac7895b-7ee8-444e-8569-0da14f61697a",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Keyword: Tobacco smoking",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019610+00:00"
+    },
+    {
+      "pid": "0bbc19db-b501-467c-8f6d-21b3311e5c04",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "CoiStatement: Conflicts of Interest None.",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019615+00:00"
+    },
+    {
+      "pid": "f886640c-b194-4015-8d69-c6767635965f",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "ArticleId: 10.1016/j.ccm.2019.10.001",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019620+00:00"
+    },
+    {
+      "pid": "d2f4ef91-a31f-4b15-b2da-eb4b8a3efcf6",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "ArticleId: S0272-5231(19)30080-2",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019625+00:00"
+    }
+  ],
+  "unstructured": [
+    {
+      "pid": "3dec0247-692c-4546-8490-eab116165fb0",
+      "file_id": "8b77936cf4b341bbbbd018e61230cba0",
+      "text": "Title: Clinics in chest medicine ISOAbbreviation: Clin Chest Med ArticleTitle: Lung Cancer 2020: Epidemiology, Etiology, and Prevention. ELocationID: 10.1016/j.ccm.2019.10.001 ELocationID: S0272-5231(19)30080-2 AbstractText: Despite advances in our understanding of risk, development, immunologic control, and treatment options for lung cancer, it remains the leading cause of cancer death. Tobacco smoking remains the predominant risk factor for lung cancer development. Nontobacco risk factors include environmental and occupational exposures, chronic lung disease, lung infections, and lifestyle factors. Because tobacco remains the leading risk factor for lung cancer, disease prevention is focused on smoking avoidance and cessation. Other prevention measures include healthy diet choices and maintaining a physically active lifestyle. Future work should focus on smoking cessation campaigns and better understanding disease development and treatment strategies in nonsmokers. CopyrightInformation: Copyright \u00a9 2019 Elsevier Inc. All rights reserved. Affiliation: Department of Medicine, Section of Pulmonary, Critical Care, and Sleep Medicine, Yale University School of Medicine, PO Box 208057, 300 Cedar Street TAC-441 South, New Haven, CT 06520-8057, USA. Affiliation: Department of Medicine, Section of Pulmonary, Critical Care, and Sleep Medicine, Yale University School of Medicine, PO Box 208057, 300 Cedar Street TAC-441 South, New Haven, CT 06520-8057, USA. Electronic address: charles.delacruz@yale.edu. PublicationType: Historical Article PublicationType: Journal Article Country: United States MedlineTA: Clin Chest Med DescriptorName: History, 21st Century DescriptorName: Lung Neoplasms QualifierName: epidemiology QualifierName: prevention & control Keyword: Epidemiology Keyword: Lung cancer Keyword: Tobacco smoking CoiStatement: Conflicts of Interest None. ArticleId: 10.1016/j.ccm.2019.10.001 ArticleId: S0272-5231(19)30080-2",
+      "source": "internal_data",
+      "source_type": "xml",
+      "timestamp": "2025-08-08T07:01:44.019632+00:00"
+    }
+  ]
+}

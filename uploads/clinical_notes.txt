@@ -1,0 +1,25 @@
+Clinical Study Report: Pembrolizumab in Advanced NSCLC
+
+Abstract:
+This Phase III randomized controlled trial evaluated the efficacy and safety of pembrolizumab versus standard chemotherapy in patients with advanced non-small cell lung cancer (NSCLC) with PD-L1 expression ≥1%.
+
+Background:
+Non-small cell lung cancer represents approximately 85% of all lung cancers. PD-L1 expression has emerged as a predictive biomarker for anti-PD-1 therapy response. Pembrolizumab, a humanized monoclonal antibody targeting PD-1, has shown promising results in multiple tumor types.
+
+Methods:
+A total of 305 treatment-naïve patients with metastatic NSCLC and PD-L1 tumor proportion score ≥1% were randomized 1:1 to receive either pembrolizumab 200 mg every 3 weeks (n=154) or investigator's choice chemotherapy (n=151). The primary endpoint was progression-free survival (PFS). Secondary endpoints included overall survival (OS), objective response rate (ORR), and safety.
+
+Results:
+The median PFS was significantly longer with pembrolizumab versus chemotherapy (10.3 vs 6.0 months; HR=0.50, 95% CI: 0.37-0.68, p<0.001). Median overall survival was 30.0 months with pembrolizumab versus 14.2 months with chemotherapy (HR=0.63, 95% CI: 0.47-0.86, p=0.003). The objective response rate was 44.8% with pembrolizumab versus 27.8% with chemotherapy (p=0.007). Complete response was achieved in 7.8% of pembrolizumab patients versus 1.3% of chemotherapy patients.
+
+Safety:
+Grade 3-5 treatment-related adverse events occurred in 26.6% of pembrolizumab patients versus 53.3% of chemotherapy patients (p<0.001). The most common immune-related adverse events with pembrolizumab included hypothyroidism (8.4%), pneumonitis (3.9%), and hepatitis (1.9%). No treatment-related deaths occurred in the pembrolizumab arm.
+
+Conclusion:
+Pembrolizumab demonstrated superior efficacy compared to standard chemotherapy in patients with advanced NSCLC and PD-L1 expression ≥1%, with a more favorable safety profile. These results support pembrolizumab as first-line treatment for this patient population.
+
+Regulatory Status:
+The FDA approved pembrolizumab for first-line treatment of metastatic NSCLC with high PD-L1 expression (≥50%) in October 2016, with subsequent approval for PD-L1 ≥1% in May 2017 based on these study results.
+
+Clinical Implications:
+This study establishes pembrolizumab as a new standard of care for patients with advanced NSCLC and PD-L1 expression. MSLs should be prepared to discuss biomarker testing requirements, patient selection criteria, and immune-related adverse event management with oncologists.

@@ -1,0 +1,46 @@
+{
+  "structured": [
+    {
+      "pid": "0dafdf06-859c-484e-972a-8b041a9b43e8",
+      "file_id": "bdaabbdf87bb49af860b00b7f2d1c09e",
+      "text": "Slide 1: Hello World Namastey Duniya k logo",
+      "source": "internal_data",
+      "source_type": "ppt",
+      "timestamp": "2025-08-08T07:01:44.924266+00:00"
+    },
+    {
+      "pid": "cc1c89a5-571f-415d-86f9-272444b2e9d9",
+      "file_id": "bdaabbdf87bb49af860b00b7f2d1c09e",
+      "text": "Slide 2: This is a hyper link https://github.com/addychet",
+      "source": "internal_data",
+      "source_type": "ppt",
+      "timestamp": "2025-08-08T07:01:44.924279+00:00"
+    },
+    {
+      "pid": "019a7c27-ebaf-4b62-86d4-dfaca10008b5",
+      "file_id": "bdaabbdf87bb49af860b00b7f2d1c09e",
+      "text": "Slide 3: THIS IS A CHART DATA",
+      "source": "internal_data",
+      "source_type": "ppt",
+      "timestamp": "2025-08-08T07:01:44.924285+00:00"
+    },
+    {
+      "pid": "492fe1e6-4a12-4e5f-ba6d-ab7ea8abb5c0",
+      "file_id": "bdaabbdf87bb49af860b00b7f2d1c09e",
+      "text": "Slide 4: Innate-AI Andhruni-AI",
+      "source": "internal_data",
+      "source_type": "ppt",
+      "timestamp": "2025-08-08T07:01:44.924290+00:00"
+    }
+  ],
+  "unstructured": [
+    {
+      "pid": "6111f0e5-76de-4232-ad34-fef8e568ed7c",
+      "file_id": "bdaabbdf87bb49af860b00b7f2d1c09e",
+      "text": "Slide 1: Hello World Namastey Duniya k logo Slide 2: This is a hyper link https://github.com/addychet Slide 3: THIS IS A CHART DATA Slide 4: Innate-AI Andhruni-AI",
+      "source": "internal_data",
+      "source_type": "ppt",
+      "timestamp": "2025-08-08T07:01:44.924295+00:00"
+    }
+  ]
+}

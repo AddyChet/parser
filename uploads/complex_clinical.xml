@@ -1,0 +1,133 @@
+<ClinicalDocument>
+  <Facility>
+    <Name>Sunrise Medical Center</Name>
+    <Location>
+      <City>Chennai</City>
+      <State>TN</State>
+      <Country>India</Country>
+    </Location>
+  </Facility>
+
+  <Patients>
+    <Patient id="P001">
+      <Demographics>
+        <Name>
+          <FirstName>Ravi</FirstName>
+          <LastName>Kumar</LastName>
+        </Name>
+        <DOB>1980-05-12</DOB>
+        <Gender>M</Gender>
+        <Contact>
+          <Phone>+91-9876543210</Phone>
+          <Email>ravi.kumar@example.com</Email>
+        </Contact>
+      </Demographics>
+
+      <Encounters>
+        <Encounter date="2025-08-01" type="Outpatient">
+          <Reason>Chronic cough and fatigue</Reason>
+          <Vitals>
+            <BP>130/85</BP>
+            <HR>78</HR>
+            <RR>18</RR>
+            <Temp unit="C">37.2</Temp>
+          </Vitals>
+          <Diagnoses>
+            <Diagnosis code="J44.1" description="COPD with exacerbation"/>
+            <Diagnosis code="I10" description="Essential hypertension"/>
+          </Diagnoses>
+          <Medications>
+            <Medication>
+              <Name>Salbutamol</Name>
+              <Dose>100 mcg</Dose>
+              <Frequency>2 puffs every 6 hours</Frequency>
+              <Route>Inhalation</Route>
+            </Medication>
+            <Medication>
+              <Name>Amlodipine</Name>
+              <Dose>5 mg</Dose>
+              <Frequency>Once daily</Frequency>
+              <Route>Oral</Route>
+            </Medication>
+          </Medications>
+          <LabResults>
+            <LabTest>
+              <Name>Complete Blood Count</Name>
+              <Result>
+                <WBC unit="10^9/L">6.2</WBC>
+                <RBC unit="10^12/L">4.8</RBC>
+                <Hemoglobin unit="g/dL">13.5</Hemoglobin>
+              </Result>
+            </LabTest>
+            <LabTest>
+              <Name>Chest X-Ray</Name>
+              <Result>Hyperinflated lungs, suggestive of COPD</Result>
+            </LabTest>
+          </LabResults>
+          <ProviderNote>
+            <Author>Dr. Meena Iyer</Author>
+            <Note>
+              Patient presents with worsening dyspnea. Likely COPD exacerbation. Recommend nebulized bronchodilators and follow-up in 1 week.
+            </Note>
+          </ProviderNote>
+        </Encounter>
+      </Encounters>
+    </Patient>
+
+    <Patient id="P002">
+      <Demographics>
+        <Name>
+          <FirstName>Anita</FirstName>
+          <LastName>Rao</LastName>
+        </Name>
+        <DOB>1992-11-23</DOB>
+        <Gender>F</Gender>
+        <Contact>
+          <Phone>+91-9123456789</Phone>
+          <Email>anita.rao@example.com</Email>
+        </Contact>
+      </Demographics>
+
+      <Encounters>
+        <Encounter date="2025-07-28" type="Emergency">
+          <Reason>Severe abdominal pain</Reason>
+          <Vitals>
+            <BP>110/70</BP>
+            <HR>92</HR>
+            <RR>20</RR>
+            <Temp unit="C">38.1</Temp>
+          </Vitals>
+          <Diagnoses>
+            <Diagnosis code="K35.80" description="Acute appendicitis"/>
+          </Diagnoses>
+          <Medications>
+            <Medication>
+              <Name>Paracetamol</Name>
+              <Dose>500 mg</Dose>
+              <Frequency>Every 6 hours</Frequency>
+              <Route>Oral</Route>
+            </Medication>
+            <Medication>
+              <Name>Ceftriaxone</Name>
+              <Dose>1 g</Dose>
+              <Frequency>Once daily</Frequency>
+              <Route>IV</Route>
+            </Medication>
+          </Medications>
+          <LabResults>
+            <LabTest>
+              <Name>Ultrasound Abdomen</Name>
+              <Result>Enlarged appendix with periappendiceal fluid</Result>
+            </LabTest>
+          </LabResults>
+          <ProviderNote>
+            <Author>Dr. Arvind Menon</Author>
+            <Note>
+              Diagnosis confirmed. Patient admitted for laparoscopic appendectomy. Pre-op antibiotics initiated.
+            </Note>
+          </ProviderNote>
+        </Encounter>
+      </Encounters>
+    </Patient>
+  </Patients>
+</ClinicalDocument>
